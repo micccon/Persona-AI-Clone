@@ -1,8 +1,8 @@
-# Persona AI Voice Clone & Chatbot 🤖
+# Persona AI Clone & Chatbot 🤖
 
 A full-stack AI application that replicates a specific user's personality and voice. The system utilizes a fine-tuned **Llama-3 8B** model for text generation and the **ElevenLabs API** for low-latency voice synthesis, delivered via a Streamlit interface.
 
-This project demonstrates the end-to-end pipeline of creating a personal LLM: from raw data extraction (iMessage), to cleaning/structuring, fine-tuning (QLoRA), and deployment via a RAG-enhanced app.
+This project demonstrates the end-to-end pipeline of creating a persona LLM: from raw data extraction (iMessage), to cleaning/structuring, fine-tuning (QLoRA), and deployment via a RAG-enhanced app.
 
 ## 🚀 Key Features
 
@@ -102,7 +102,7 @@ Once you have a model (or if you want to skip training and use a generic one), f
 
 ```bash
 git clone [https://ghttps://github.com/micccon/Persona-AI-Clone.git](https://github.com/micccon/Persona-AI-Clone.git)
-cd Persona-Voice-Clone
+cd Persona-AI-Clone
 ```
 ### 2. Install Dependencies
 

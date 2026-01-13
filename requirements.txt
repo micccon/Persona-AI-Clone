@@ -1,0 +1,5 @@
+streamlit
+llama-cpp-python
+elevenlabs
+python-dotenv
+pandas

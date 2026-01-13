@@ -1,0 +1,20 @@
+# --- Secrets ---
+.env
+
+# --- Large Models (Local Only) ---
+*.gguf
+*.bin
+*.pt
+
+# --- Private Data (Local Only) ---
+*.db
+*.csv
+*.wav
+*.mp3
+
+# --- System & Python Junk ---
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+.DS_Store

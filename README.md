@@ -32,6 +32,8 @@ This project demonstrates the end-to-end pipeline of creating a personal LLM: fr
 Follow this pipeline if you want to create a model trained on your own text messages.
 
 ### 1. Data Extraction (macOS Only)
+*To preface, I trained my persona on my own texts and messages from my own Apple phone, therefore this method would only work on **macOS**. I'm positive it would be *much easier* to use other platforms, but this is just how I did it.*
+
 Use the included script to pull messages from your local `chat.db`.
 1.  Open `scripts/export_messages.py`.
 2.  Update `TARGET_HANDLE_ID` with the phone number/email of the person you text the most.
@@ -99,7 +101,7 @@ Once you have a model (or if you want to skip training and use a generic one), f
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YourUsername/Personal-Voice-Clone.git](https://github.com/YourUsername/Personal-Voice-Clone.git)
+git clone [https://ghttps://github.com/micccon/Personal-AI-Clone.git](https://github.com/micccon/Personal-AI-Clone.git)
 cd Personal-Voice-Clone
 ```
 ### 2. Install Dependencies

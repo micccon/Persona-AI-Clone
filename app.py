@@ -50,7 +50,7 @@ with st.sidebar:
     
     st.caption("Turn off voice for faster replies.")
 
-st.title("❤️ Digital Clone")
+st.title("Digital Clone")
 st.caption("A fine-tuned behavioral clone experiment.")
 
 # --- SYSTEM PROMPT ---
